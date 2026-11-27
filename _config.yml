@@ -1,0 +1,10 @@
+title: NLB mutual TLS 테스트 보고서
+description: Network Load Balancer mutual TLS(verify 모드)를 공식 문서와 대조해 직접 확인한 결과
+lang: ko
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
